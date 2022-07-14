@@ -96,4 +96,3 @@ b) Suggest one way to improve the accuracy of the selected model.
 
 c) Feel free to combine similar reasons into fewer categories as long as justified the reasoning. You are free to define input features of your model using word frequency analysis or other techniques.
 
-Write a report and an ipynb file.
